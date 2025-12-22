@@ -1,71 +1,34 @@
 <h1 style="color:#ff00ad; text-align:left;">💫 About Me</h1>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nourAlshmali/nourAlshmali/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nourAlshmali/nourAlshmali/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nourAlshmali/nourAlshmali/output/pacman-contribution-graph.svg">
-</picture>
-
-<h2 align="center">
-  <span class="gradient-text">Frontend Developer</span>
-</h2>
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nourAlshmali/nourAlshmali/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nourAlshmali/nourAlshmali/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nourAlshmali/nourAlshmali/output/pacman-contribution-graph.svg">
+  </picture>
+</p>
 
 <p align="center">
-  <span class="gradient-subtext-static">
+  <img src="title.svg" />
+</p>
+
+<p align="center">
+  <span style="color:#ff6ec7; font-size:16px; font-weight:500;">
     Building clean, modern, and intuitive web experiences
   </span>
 </p>
 
-
-<p align="center" style="margin-top:10px;">
-  <a href="./CV/Yahea Dada Cv.pdf" target="_blank" style="
-    font-size:24px;
-    font-weight:bold;
-    text-decoration:none;
-    background: linear-gradient(270deg, #ff00ad, #ff6ec7, #8f00ff, #ff00ad);
-    background-size: 400% 400%;
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-  ">
-    Check my CV
+<p align="center">
+  <a href="./CV/Yahea Dada Cv.pdf" target="_blank">
+    <img src="cv-button.svg" />
   </a>
 </p>
 
-<style>
-
-.gradient-text {
-  font-size: 28px;
-  font-weight: bold;
-  background: linear-gradient(270deg, #ff00ad, #ff6ec7, #8f00ff, #ff00ad);
-  background-size: 400% 400%;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  animation: gradientMove 3s ease infinite; 
-}
-
-
-.gradient-subtext-static {
-  font-size: 16px;
-  font-weight: 500;
-  background: linear-gradient(270deg, #ff00ad, #ff6ec7, #8f00ff, #ff00ad);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-}
-
-@keyframes gradientMove {
-  0% { background-position: 0% 50%; }
-  50% { background-position: 100% 50%; }
-  100% { background-position: 0% 50%; }
-}
-</style>
-
-
-
-<img align="center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/76/5b/ef/765bef01c71d27404a81b4ce30d5bb20.gif">
-
+<p align="center">
+  <img align="center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/76/5b/ef/765bef01c71d27404a81b4ce30d5bb20.gif">
+</p>
 
 <h1 style="color:#ff00ad; text-align:left;">✨ Languages and Tools</h1>
-
 
 <p style="color:#ff00ad;"><strong>Frontend:</strong></p>
 <p align="center">
@@ -76,7 +39,6 @@
   <img src="https://img.shields.io/badge/Tailwind-2d1b4d?style=for-the-badge&logo=tailwindcss&logoColor=ff00ad"/>
 </p>
 
-
 <p style="color:#ff00ad;"><strong>Tools:</strong></p>
 <p align="center">
   <img src="https://img.shields.io/badge/Figma-2d1b4d?style=for-the-badge&logo=figma&logoColor=ff00ad"/>
@@ -85,7 +47,6 @@
   <img src="https://img.shields.io/badge/VS%20Code-2d1b4d?style=for-the-badge&logo=visualstudiocode&logoColor=ff00ad"/>
   <img src="https://img.shields.io/badge/Postman-2d1b4d?style=for-the-badge&logo=postman&logoColor=ff00ad"/>
 </p>
-
 
 <p style="color:#ff00ad;"><strong>Backend:</strong></p>
 <p align="center">
