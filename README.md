@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img align="center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/76/5b/ef/765bef01c71d27404a81b4ce30d5bb20.gif">
+  <img alt="Coding" width="1000" src="https://i.pinimg.com/originals/76/5b/ef/765bef01c71d27404a81b4ce30d5bb20.gif">
 </p>
 
 <h1 style="color:#ff00ad; text-align:left;">✨ Languages and Tools</h1>
@@ -56,15 +56,25 @@
 
 <h1 style="color:#ff00ad; text-align:left;">🌐 Socials</h1>
 
-[![Facebook](https://img.shields.io/badge/Facebook-2d1b4d?style=for-the-badge&logo=facebook&logoColor=ff00ad)](https://www.facebook.com/share/1AVEhZoFFY/)
-[![Instagram](https://img.shields.io/badge/Instagram-2d1b4d?style=for-the-badge&logo=instagram&logoColor=ff00ad)](https://www.instagram.com/nour_als12)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-2d1b4d?style=for-the-badge&logo=linkedin&logoColor=ff00ad)](https://www.linkedin.com/in/nour-alshamali-b2011936a)
+<p align="center">
+  <a href="https://www.facebook.com/share/1AVEhZoFFY/"><img src="https://img.shields.io/badge/Facebook-2d1b4d?style=for-the-badge&logo=facebook&logoColor=ff00ad" /></a>
+  <a href="https://www.instagram.com/nour_als12"><img src="https://img.shields.io/badge/Instagram-2d1b4d?style=for-the-badge&logo=instagram&logoColor=ff00ad" /></a>
+  <a href="https://www.linkedin.com/in/nour-alshamali-b2011936a"><img src="https://img.shields.io/badge/LinkedIn-2d1b4d?style=for-the-badge&logo=linkedin&logoColor=ff00ad" /></a>
+</p>
 
 <h1 style="color:#ff00ad; text-align:left;">📊 GitHub Stats</h1>
 
-![](https://github-readme-stats.vercel.app/api?username=NourAlshmali&theme=synthwave)
-![](https://nirzak-streak-stats.vercel.app/?user=NourAlshmali&theme=synthwave)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=NourAlshmali&theme=synthwave&layout=compact)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NourAlshmali&theme=synthwave" />
+</p>
+
+<p align="center">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=NourAlshmali&theme=synthwave" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NourAlshmali&theme=synthwave&layout=compact" />
+</p>
 
 <h1 style="color:#ff00ad; text-align:left;">✍️ Random Dev Quote</h1>
 
@@ -74,4 +84,6 @@
 
 <h1 style="color:#ff00ad; text-align:left;">🔝 Top Contributed Repos</h1>
 
-![](https://github-contributor-stats.vercel.app/api?username=NourAlshmali&limit=5&theme=synthwave)
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=NourAlshmali&limit=5&theme=synthwave" />
+</p>
