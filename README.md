@@ -19,7 +19,7 @@
 </p>
 
 <p align="center">
-  <a href="./CV/Yahea Dada Cv.pdf" target="_blank">
+  <a href="./CV/NourAlshamaliCV.pdf" target="_blank">
     <img src="cv-button.svg" />
   </a>
 </p>
